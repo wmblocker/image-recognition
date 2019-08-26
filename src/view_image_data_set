@@ -1,5 +1,8 @@
-from keras.datasets import cifar10
 import matplotlib.pyplot as plt
+
+# Ciphar 10 Dataset for input
+from keras.datasets import cifar10
+
 
 cifar10_class_names = {
     0: "Airplane",
